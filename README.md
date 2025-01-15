@@ -1,5 +1,5 @@
 # TKA-Predictions-2025
-The code used in the paper [PAPER TITLE]
+The code used in the paper _Development of Machine Learning–based Algorithms to Predict the 2- and 5-year Risk of Total Knee Arthroplasty After Tibial Plateau Fracture Treatment_
 
 # How to recreate experimental results
 1. Request the data from n.assink@umcg.nl
